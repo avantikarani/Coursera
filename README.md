@@ -1,3 +1,3 @@
 # Coursera
 
-Data Science Assignments
+Data Science Capstone
